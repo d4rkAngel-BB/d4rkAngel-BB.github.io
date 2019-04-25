@@ -59,9 +59,9 @@ body, html {
 
 .subHeader{
 	font-family: 'Laila', serif;
-	font-size: 4vw;
-	margin-left: 350px;
-	margin-top: 270px;
+	font-size: 2vw;
+	margin-left: 300px;
+	margin-top: 300px;
 	position: absolute;
   	z-index: 1000;
   	color: white;
