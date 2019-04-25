@@ -80,7 +80,7 @@ body, html {
 .aboutSubHeader{
 	text-align: right;
 	font-family: 'Lato', sans-serif;
-	font-size: 30px;
+	font-size: 2vw;
 	margin-top: 20px;
 }
 /*styling for the subheader ends here*/
@@ -191,7 +191,7 @@ body, html {
 /*styling for the contact us header*/
 .contactUsHeader{
 	font-family: 'Rock Salt', Cursive;
-	font-size: 30px;
+	font-size: 2vw;
 	text-align: center;
 	color: white;
 	margin-bottom: 40px;
@@ -201,7 +201,7 @@ body, html {
 .media{
 	text-align: center;
 	font-family: 'Francois One', sans-serif;
-	font-size: 20px;
+	font-size: 2vw;
 	color: white;
 	padding: 5px;
 }
