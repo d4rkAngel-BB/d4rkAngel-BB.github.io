@@ -80,7 +80,7 @@ body, html {
 .aboutSubHeader{
 	text-align: right;
 	font-family: 'Lato', sans-serif;
-	font-size: 2vw;
+	font-size: 1.5vw;
 	margin-top: 20px;
 }
 /*styling for the subheader ends here*/
@@ -172,7 +172,7 @@ body, html {
 	margin-bottom: 20px;
 }
 .subevents{
-	font-size: 20px;
+	font-size: 1.5vw;
 	font-family: 'Francois One', sans-serif;
 	color: black;
 }
